@@ -1,8 +1,0 @@
-{
-    "name": "srose99/desktop",
-    "description": "Composer init files",
-    "type": "project",
-    "require": {
-        "mongodb/mongodb": "^1.19"
-    }
-}
