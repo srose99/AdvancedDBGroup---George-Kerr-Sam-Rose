@@ -1,0 +1,127 @@
+[
+   {
+      "code": "AU",
+      "name": "Australia",
+      "language": ""
+   },
+   {
+      "code": "BE",
+      "name": "Belgium",
+      "language": ""
+   },
+   {
+      "code": "BR",
+      "name": "Brazil",
+      "language": ""
+   },
+   {
+      "code": "BS",
+      "name": "Bahamas",
+      "language": ""
+   },
+   {
+      "code": "CA",
+      "name": "Canada",
+      "language": ""
+   },
+   {
+      "code": "CH",
+      "name": "Switzerland",
+      "language": ""
+   },
+   {
+      "code": "CN",
+      "name": "China",
+      "language": ""
+   },
+   {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "language": ""
+   },
+   {
+      "code": "DE",
+      "name": "Germany",
+      "language": "german"
+   },
+   {
+      "code": "DK",
+      "name": "Denmark",
+      "language": ""
+   },
+   {
+      "code": "ES",
+      "name": "Spain",
+      "language": "spanish"
+   },
+   {
+      "code": "FR",
+      "name": "France",
+      "language": "french"
+   },
+   {
+      "code": "GB",
+      "name": "United Kingdom",
+      "language": "english"
+   },
+   {
+      "code": "GR",
+      "name": "Greece",
+      "language": ""
+   },
+   {
+      "code": "HK",
+      "name": "Hong Kong",
+      "language": ""
+   },
+   {
+      "code": "IE",
+      "name": "Irlande",
+      "language": "english"
+   },
+   {
+      "code": "IT",
+      "name": "Italy",
+      "language": "italien"
+   },
+   {
+      "code": "JO",
+      "name": "Jordan",
+      "language": ""
+   },
+   {
+      "code": "JP",
+      "name": "Japan",
+      "language": "japanese"
+   },
+   {
+      "code": "KR",
+      "name": "South Korea",
+      "language": ""
+   },
+   {
+      "code": "MX",
+      "name": "Mexico",
+      "language": ""
+   },
+   {
+      "code": "NL",
+      "name": "Netherlands",
+      "language": ""
+   },
+   {
+      "code": "NO",
+      "name": "Norway",
+      "language": ""
+   },
+   {
+      "code": "NZ",
+      "name": "New Zealand",
+      "language": ""
+   },
+   {
+      "code": "US",
+      "name": "USA",
+      "language": "english"
+   }
+]
