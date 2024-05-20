@@ -1,0 +1,602 @@
+[
+   {
+      "artist": {
+         "DOB": "1951",
+         "name": "Mark",
+         "surname": "Hamill",
+         "artistId": 2
+      },
+      "movieId": 11,
+      "roleName": "Luke Skywalker"
+   },
+   {
+      "artist": {
+         "DOB": "1942",
+         "name": "Harrison",
+         "surname": "Ford",
+         "artistId": 3
+      },
+      "movieId": 11,
+      "roleName": "Han Solo"
+   },
+   {
+      "artist": {
+         "DOB": "1942",
+         "name": "Harrison",
+         "surname": "Ford",
+         "artistId": 3
+      },
+      "movieId": 78,
+      "roleName": "Rick Deckard"
+   },
+   {
+      "artist": {
+         "DOB": "1942",
+         "name": "Harrison",
+         "surname": "Ford",
+         "artistId": 3
+      },
+      "movieId": 85,
+      "roleName": "Indiana Jones"
+   },
+   {
+      "artist": {
+         "DOB": "1942",
+         "name": "Harrison",
+         "surname": "Ford",
+         "artistId": 3
+      },
+      "movieId": 87,
+      "roleName": "Indiana Jones"
+   },
+   {
+      "artist": {
+         "DOB": "1942",
+         "name": "Harrison",
+         "surname": "Ford",
+         "artistId": 3
+      },
+      "movieId": 89,
+      "roleName": "Indiana Jones"
+   },
+   {
+      "artist": {
+         "DOB": "1956",
+         "name": "Carrie",
+         "surname": "Fisher",
+         "artistId": 4
+      },
+      "movieId": 11,
+      "roleName": "Princess Leia Organa"
+   },
+   {
+      "artist": {
+         "DOB": "1913",
+         "name": "Peter",
+         "surname": "Cushing",
+         "artistId": 5
+      },
+      "movieId": 11,
+      "roleName": "Grand Moff Tarkin"
+   },
+   {
+      "artist": {
+         "DOB": "1946",
+         "name": "Anthony",
+         "surname": "Daniels",
+         "artistId": 6
+      },
+      "movieId": 11,
+      "roleName": "C-3PO"
+   },
+   {
+      "artist": {
+         "DOB": "1915",
+         "name": "Orson",
+         "surname": "Welles",
+         "artistId": 40
+      },
+      "movieId": 15,
+      "roleName": "Charles Foster Kane"
+   },
+   {
+      "artist": {
+         "DOB": "1967",
+         "name": "Maria",
+         "surname": "Bello",
+         "artistId": 49
+      },
+      "movieId": 59,
+      "roleName": "Edie Stall"
+   },
+   {
+      "artist": {
+         "DOB": "1967",
+         "name": "Mark",
+         "surname": "Ruffalo",
+         "artistId": 103
+      },
+      "movieId": 38,
+      "roleName": "Stan Fink"
+   },
+   {
+      "artist": {
+         "DOB": "1958",
+         "name": "Viggo",
+         "surname": "Mortensen",
+         "artistId": 110
+      },
+      "movieId": 59,
+      "roleName": "Tom Stall / Joey Cusack"
+   },
+   {
+      "artist": {
+         "DOB": "1934",
+         "name": "Kenny",
+         "surname": "Baker",
+         "artistId": 130
+      },
+      "movieId": 11,
+      "roleName": "R2-D2"
+   },
+   {
+      "artist": {
+         "DOB": "1970",
+         "name": "Uma",
+         "surname": "Thurman",
+         "artistId": 139
+      },
+      "movieId": 24,
+      "roleName": "Beatrix \"The Bride\" Kiddo"
+   },
+   {
+      "artist": {
+         "DOB": "1968",
+         "name": "Lucy",
+         "surname": "Liu",
+         "artistId": 140
+      },
+      "movieId": 24,
+      "roleName": "O-Ren Ishii"
+   },
+   {
+      "artist": {
+         "DOB": "1936",
+         "name": "David",
+         "surname": "Carradine",
+         "artistId": 141
+      },
+      "movieId": 24,
+      "roleName": "Bill"
+   },
+   {
+      "artist": {
+         "DOB": "1957",
+         "name": "Michael",
+         "surname": "Madsen",
+         "artistId": 147
+      },
+      "movieId": 24,
+      "roleName": "Budd"
+   },
+   {
+      "artist": {
+         "DOB": "1930",
+         "name": "Clint",
+         "surname": "Eastwood",
+         "artistId": 190
+      },
+      "movieId": 33,
+      "roleName": "William Munny"
+   },
+   {
+      "artist": {
+         "DOB": "1937",
+         "name": "Morgan",
+         "surname": "Freeman",
+         "artistId": 192
+      },
+      "movieId": 33,
+      "roleName": "Ned Logan"
+   },
+   {
+      "artist": {
+         "DOB": "1930",
+         "name": "Gene",
+         "surname": "Hackman",
+         "artistId": 193
+      },
+      "movieId": 33,
+      "roleName": "'Little' Bill Daggett"
+   },
+   {
+      "artist": {
+         "DOB": "1930",
+         "name": "Richard",
+         "surname": "Harris",
+         "artistId": 194
+      },
+      "movieId": 33,
+      "roleName": "English Bob"
+   },
+   {
+      "artist": {
+         "DOB": "1930",
+         "name": "Richard",
+         "surname": "Harris",
+         "artistId": 194
+      },
+      "movieId": 98,
+      "roleName": "Marcus Aurelius"
+   },
+   {
+      "artist": {
+         "DOB": "1975",
+         "name": "Kate",
+         "surname": "Winslet",
+         "artistId": 204
+      },
+      "movieId": 38,
+      "roleName": "Clementine Kruczynski"
+   },
+   {
+      "artist": {
+         "DOB": "1982",
+         "name": "Kirsten",
+         "surname": "Dunst",
+         "artistId": 205
+      },
+      "movieId": 38,
+      "roleName": "Mary Svevo"
+   },
+   {
+      "artist": {
+         "DOB": "1962",
+         "name": "Jim",
+         "surname": "Carrey",
+         "artistId": 206
+      },
+      "movieId": 38,
+      "roleName": "Joel Barish"
+   },
+   {
+      "artist": {
+         "DOB": "1978",
+         "name": "Ashton",
+         "surname": "Holmes",
+         "artistId": 225
+      },
+      "movieId": 59,
+      "roleName": "Jack Stall"
+   },
+   {
+      "artist": {
+         "DOB": "1950",
+         "name": "William",
+         "surname": "Hurt",
+         "artistId": 227
+      },
+      "movieId": 59,
+      "roleName": "Richie Cusack"
+   },
+   {
+      "artist": {
+         "DOB": "1950",
+         "name": "Ed",
+         "surname": "Harris",
+         "artistId": 228
+      },
+      "movieId": 59,
+      "roleName": "Carl Fogarty"
+   },
+   {
+      "artist": {
+         "DOB": "1936",
+         "name": "Keir",
+         "surname": "Dullea",
+         "artistId": 245
+      },
+      "movieId": 62,
+      "roleName": "Dr. David Bowman"
+   },
+   {
+      "artist": {
+         "DOB": "1937",
+         "name": "Gary",
+         "surname": "Lockwood",
+         "artistId": 246
+      },
+      "movieId": 62,
+      "roleName": "Dr. Frank Poole"
+   },
+   {
+      "artist": {
+         "DOB": "1922",
+         "name": "William",
+         "surname": "Sylvester",
+         "artistId": 247
+      },
+      "movieId": 62,
+      "roleName": "Dr. Heywood Floyd"
+   },
+   {
+      "artist": {
+         "DOB": "1939",
+         "name": "Daniel",
+         "surname": "Richter",
+         "artistId": 248
+      },
+      "movieId": 62,
+      "roleName": "Moonwatcher"
+   },
+   {
+      "artist": {
+         "DOB": "1928",
+         "name": "Douglas",
+         "surname": "Rain",
+         "artistId": 253
+      },
+      "movieId": 62,
+      "roleName": "HAL 9000 (voice)"
+   },
+   {
+      "artist": {
+         "DOB": "1943",
+         "name": "Robert",
+         "surname": "De Niro",
+         "artistId": 380
+      },
+      "movieId": 103,
+      "roleName": "Travis Bickle"
+   },
+   {
+      "artist": {
+         "DOB": "1962",
+         "name": "Tom",
+         "surname": "Cruise",
+         "artistId": 500
+      },
+      "movieId": 74,
+      "roleName": "Ray Ferrier"
+   },
+   {
+      "artist": {
+         "DOB": "1994",
+         "name": "Dakota",
+         "surname": "Fanning",
+         "artistId": 501
+      },
+      "movieId": 74,
+      "roleName": "Rachel Ferrier"
+   },
+   {
+      "artist": {
+         "DOB": "1967",
+         "name": "Miranda",
+         "surname": "Otto",
+         "artistId": 502
+      },
+      "movieId": 74,
+      "roleName": "Mary-Ann"
+   },
+   {
+      "artist": {
+         "DOB": "1982",
+         "name": "Justin",
+         "surname": "Chatwin",
+         "artistId": 503
+      },
+      "movieId": 74,
+      "roleName": "Robbie Ferrier"
+   },
+   {
+      "artist": {
+         "DOB": "1958",
+         "name": "Tim",
+         "surname": "Robbins",
+         "artistId": 504
+      },
+      "movieId": 74,
+      "roleName": "Harlan Ogilvy"
+   },
+   {
+      "artist": {
+         "DOB": "1937",
+         "name": "Jack",
+         "surname": "Nicholson",
+         "artistId": 514
+      },
+      "movieId": 75,
+      "roleName": "President Dale / Art Land"
+   },
+   {
+      "artist": {
+         "DOB": "1947",
+         "name": "Glenn",
+         "surname": "Close",
+         "artistId": 515
+      },
+      "movieId": 75,
+      "roleName": "Marsha Dale"
+   },
+   {
+      "artist": {
+         "DOB": "1958",
+         "name": "Annette",
+         "surname": "Bening",
+         "artistId": 516
+      },
+      "movieId": 75,
+      "roleName": "Barbara Land"
+   },
+   {
+      "artist": {
+         "DOB": "1953",
+         "name": "Pierce",
+         "surname": "Brosnan",
+         "artistId": 517
+      },
+      "movieId": 75,
+      "roleName": "Donald Kessler"
+   },
+   {
+      "artist": {
+         "DOB": "1944",
+         "name": "Danny",
+         "surname": "DeVito",
+         "artistId": 518
+      },
+      "movieId": 75,
+      "roleName": "Rude Gambler"
+   },
+   {
+      "artist": {
+         "DOB": "1950",
+         "name": "Martin",
+         "surname": "Short",
+         "artistId": 519
+      },
+      "movieId": 75,
+      "roleName": "Jerry Ross"
+   },
+   {
+      "artist": {
+         "DOB": "1965",
+         "name": "Sarah",
+         "surname": "Jessica Parker",
+         "artistId": 520
+      },
+      "movieId": 75,
+      "roleName": "Nathalie Lake"
+   },
+   {
+      "artist": {
+         "DOB": "1961",
+         "name": "Michael",
+         "surname": "J. Fox",
+         "artistId": 521
+      },
+      "movieId": 75,
+      "roleName": "Jason Stone"
+   },
+   {
+      "artist": {
+         "DOB": "1925",
+         "name": "Rod",
+         "surname": "Steiger",
+         "artistId": 522
+      },
+      "movieId": 75,
+      "roleName": "General Decker"
+   },
+   {
+      "artist": {
+         "DOB": "1967",
+         "name": "Guy",
+         "surname": "Pearce",
+         "artistId": 529
+      },
+      "movieId": 77,
+      "roleName": "Leonard Shelby"
+   },
+   {
+      "artist": {
+         "DOB": "1967",
+         "name": "Carrie-Anne",
+         "surname": "Moss",
+         "artistId": 530
+      },
+      "movieId": 77,
+      "roleName": "Natalie"
+   },
+   {
+      "artist": {
+         "DOB": "1951",
+         "name": "Joe",
+         "surname": "Pantoliano",
+         "artistId": 532
+      },
+      "movieId": 77,
+      "roleName": "John Edward \"Teddy\" Gammell"
+   },
+   {
+      "artist": {
+         "DOB": "1955",
+         "name": "Mark",
+         "surname": "Boone Junior",
+         "artistId": 534
+      },
+      "movieId": 77,
+      "roleName": "Burt"
+   },
+   {
+      "artist": {
+         "DOB": "None",
+         "name": "Russ",
+         "surname": "Fega",
+         "artistId": 535
+      },
+      "movieId": 77,
+      "roleName": "Waiter"
+   },
+   {
+      "artist": {
+         "DOB": "1968",
+         "name": "Jorja",
+         "surname": "Fox",
+         "artistId": 536
+      },
+      "movieId": 77,
+      "roleName": "Catherine Shelby"
+   },
+   {
+      "artist": {
+         "DOB": "1944",
+         "name": "Rutger",
+         "surname": "Hauer",
+         "artistId": 585
+      },
+      "movieId": 78,
+      "roleName": "Roy Batty"
+   },
+   {
+      "artist": {
+         "DOB": "1959",
+         "name": "Sean",
+         "surname": "Young",
+         "artistId": 586
+      },
+      "movieId": 78,
+      "roleName": "Rachael"
+   },
+   {
+      "artist": {
+         "DOB": "1947",
+         "name": "Edward",
+         "surname": "James Olmos",
+         "artistId": 587
+      },
+      "movieId": 78,
+      "roleName": "Gaff"
+   },
+   {
+      "artist": {
+         "DOB": "1935",
+         "name": "M.",
+         "surname": "Emmet Walsh",
+         "artistId": 588
+      },
+      "movieId": 78,
+      "roleName": "Bryant"
+   },
+   {
+      "artist": {
+         "DOB": "1960",
+         "name": "Daryl",
+         "surname": "Hannah",
+         "artistId": 589
+      },
+      "movieId": 24,
+      "roleName": "Elle Driver"
+   }
+]
